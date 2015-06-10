@@ -5,6 +5,8 @@
   - Current Version 1.4.1
   - Authors
     - http://www.cbica.upenn.edu/sbia/software/dramms/people.html
+  - FastPD MRF Optimization Code
+    - http://www.csd.uoc.gr/~komod/FastPD/
 
 --------
 
